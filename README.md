@@ -1,5 +1,5 @@
 # Gesture Controlled Snake Game
-This is a snake game controlled by hand gestures. Controller part has been implemented in Python using OpenCV and Tensorflow. Snake game has been implemented in Java.
+This is a snake game controlled by hand gestures. Controller part has been implemented in Python using OpenCV and Tensorflow. Snake game has been implemented in Java. To run this game you need a camera on your computer. There is 4 hand gesture to control snake. You can find example gestures in images folder.
 
 
 ## Prerequisites
